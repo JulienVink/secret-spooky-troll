@@ -25,6 +25,6 @@
   "//SentinelOverrides": "Pin follow-redirects and qs to resolve vulnerabilities GHSA-r4q5-vmmm-2653, GHSA-q8mj-m7cp-5q26, and GHSA-x5fp-wj9c-mxmx",
   "overrides": {
     "follow-redirects": "^1.16.1",
-    "qs": "^6.17.1"
+    "qs": "^6.16.0"
   }
 }
